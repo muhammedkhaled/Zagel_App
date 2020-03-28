@@ -16,22 +16,13 @@ using MVC pattern
 
 Screan Shots
 
-<img src="Screan%20shots/Screenshot_20200327-233829.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233852.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233902.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233913.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233919.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233924.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233951.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233959.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-234028.png" width="100" hight="10">
-
-<img src="Screan%20shots/Screenshot_20200327-233829.png" width="100" hight="10">
+<img src="Screan%20shots/Screenshot_20200327-233829.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233852.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233902.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233913.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233919.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233924.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233951.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233959.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-234028.png" width="150" hight="20">
+<img src="Screan%20shots/Screenshot_20200327-233829.png" width="150" hight="20">
