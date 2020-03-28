@@ -22,7 +22,6 @@ Screan Shots
 ![](Screan%20shots/Screenshot_20200327-233913.png)
 ![](Screan%20shots/Screenshot_20200327-233919.png)
 ![](Screan%20shots/Screenshot_20200327-233924.png)
-![](Screan%20shots/Screenshot_20200327-233942.png)
 ![](Screan%20shots/Screenshot_20200327-233951.png)
 ![](Screan%20shots/Screenshot_20200327-233959.png)
 ![](Screan%20shots/Screenshot_20200327-234028.png)
