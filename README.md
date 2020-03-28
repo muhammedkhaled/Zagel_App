@@ -2,6 +2,9 @@
 
 Zagel_App is a simple chat app private _chat and Group _chat 
 
+for more details
+https://www.linkedin.com/posts/muhammad-khaled_androiddeveloper-android-junior-activity-6621831063226454016-PS1D 
+
 using MVC pattern 
 
 1.Firebase Auth
